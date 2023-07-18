@@ -1,0 +1,17 @@
+int range * *
+swithcport mode access
+sw ac vlan 10
+
+switchport mode trunk
+sw trunk allowed vlan 10,20
+sw trunk native vlan 10001
+do show vlan brief
+do show interfces trunk
+
+
+int g0/0.10
+encapsulation dot1q 10
+ip addr 
+
+enc
+
